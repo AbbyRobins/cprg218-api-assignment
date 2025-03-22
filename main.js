@@ -28,7 +28,7 @@ fetch("https://v2.jokeapi.dev/joke/Any?safe-mode")
     }
 });
 
-//BUTTONS
+//BUTTON IDS
 
 const programmingButton = document.getElementById('programming-button');
 const miscButton = document.getElementById('misc-button');
